@@ -23,5 +23,5 @@
   }
 </style>
 <header>
-  <h1>MeetUs</h1>
+  <h1>Svelte JS</h1>
 </header>
